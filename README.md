@@ -22,7 +22,7 @@ one current tab, with the represented buffer displayed in the window. Current ta
 
 ![Open quickfix and command windows]()
 
-Navigation between tabs is not interconnected with the buffer list and is done via plugin's own commands. To know how to use the plugin see the [User Guide](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-User-Guide#vimwintab-user-guide.
+Navigation between tabs is not interconnected with the buffer list and is done via plugin's own commands. To know how to use the plugin see the [User Guide](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-User-Guide#vimwintab-user-guide).
 
 ![Navigate tabs]()
 
@@ -37,7 +37,7 @@ In general, plugin is very customizable - you can determine, how it will operate
 Installation
 ------------
 
-To know how to install the plugin go to [Installation Guide](https://github.com/boson-joe/vimwintab/wiki/_new#vimwintab-installation-guide) page.
+To know how to install the plugin go to [Installation Guide](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-installation-guide) page.
 
 Development
 -----------
@@ -47,7 +47,7 @@ If you are interested in contributing to the plugin's development or have any an
 Table of Contents
 -----------------
 
-[[User Guide]](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-User-Guide#vimwintab-user-guide) [[Customisation Guide]](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-customization-guide#vimwintab-customization-guide) [[Installation Guide]](https://github.com/boson-joe/vimwintab/wiki/_new#vimwintab-installation-guide) [[License]](https://github.com/boson-joe/vimwintab/blob/master/license.txt) [[Development]](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-development#vimwintab-development) [[Contacts]](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-contacts#vimwintab-contacts)
+[[User Guide]](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-User-Guide#vimwintab-user-guide) [[Customisation Guide]](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-customization-guide#vimwintab-customization-guide) [[Installation Guide]](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-installation-guide) [[License]](https://github.com/boson-joe/vimwintab/blob/master/license.txt) [[Development]](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-development#vimwintab-development) [[Contacts]](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-contacts#vimwintab-contacts)
 
 -----
 

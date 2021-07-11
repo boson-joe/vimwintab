@@ -6,10 +6,10 @@
 " Created by bozon joe.
 " https://github.com/boson-joe
 "
-" ':h VWTLicense' in Vim or go to the link below to view the license of this software.
-" TODO
+" ':h VWTLicense' in Vim or open the 'license.txt' file in the root directory
+" of this plugin to read the license this software is distributed on.
 "
-" ':h VWTUserGuide' in Vim or go to the link below to view the User Guide to this plugin.
+" ':h VWTUserGuide' in Vim or go to the link below to view the User Guide.
 " https://github.com/boson-joe/vimwintab/wiki/Vimwintab-User-Guide
 
 
