@@ -6,9 +6,9 @@ tabs you are used to in every window you want to.**
 
 To find out how to use the plugin see a brief [User Guide](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-User-Guide#vimwintab-user-guide).
 
-To learn more about the plugin please refer to the [Table of Contents] section at the end of this file.
+To learn more about the plugin please refer to the [Table of Contents](https://github.com/boson-joe/vimwintab#table-of-contents) section at the end of this file.
 
-To see the license this plugin is distributed on go to [License].
+To see the license this plugin is distributed on go to [License](https://github.com/boson-joe/vimwintab/blob/master/license.txt)
 
 Description
 ----------
@@ -47,8 +47,8 @@ If you are interested in contributing to the plugin's development or have any an
 Table of Contents
 -----------------
 
-[[User Guide]](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-User-Guide#vimwintab-user-guide) [[Customisation Guide]](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-customization-guide#vimwintab-customization-guide) [[Installation Guide]](https://github.com/boson-joe/vimwintab/wiki/_new#vimwintab-installation-guide) [[License]]() [[Development]](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-development#vimwintab-development) [[Contacts]](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-contacts#vimwintab-contacts)
+[[User Guide]](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-User-Guide#vimwintab-user-guide) [[Customisation Guide]](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-customization-guide#vimwintab-customization-guide) [[Installation Guide]](https://github.com/boson-joe/vimwintab/wiki/_new#vimwintab-installation-guide) [[License]](https://github.com/boson-joe/vimwintab/blob/master/license.txt) [[Development]](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-development#vimwintab-development) [[Contacts]](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-contacts#vimwintab-contacts)
 
 -----
 
-[Go up]()
+[Go up](https://github.com/boson-joe/vimwintab#vimwintab)
