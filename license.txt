@@ -1,7 +1,7 @@
 Vimwintab plugin license
 
 
-This software is developed by bozon joe (https://github.com/boson-joe) and 
+This software is developed by boson joe (https://github.com/boson-joe) and 
 distributed under the terms and conditions of the following license:
 
 

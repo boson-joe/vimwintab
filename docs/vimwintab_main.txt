@@ -11,7 +11,7 @@
         which allows you to have regular tabs you are used to 
                    in every window you want to.
 
-                        developed by bozon joe
+                        developed by boson joe
                      https://github.com/boson-joe
 
 
