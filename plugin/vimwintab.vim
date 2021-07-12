@@ -3,7 +3,7 @@
 " A plugin that adds IDE-like tabs to Vim, which allows you to have regular
 " tabs you are used to in every window you want to.
 "
-" Created by boson joe.
+" Created and currently maintained by boson joe.
 " https://github.com/boson-joe
 "
 " ':h VWTLicense' in Vim or open the 'license.txt' file in the root directory
@@ -11,6 +11,8 @@
 "
 " ':h VWTUserGuide' in Vim or go to the link below to view the User Guide.
 " https://github.com/boson-joe/vimwintab/wiki/Vimwintab-User-Guide
+
+let s:vimwintab_version = 100
 
 
 
