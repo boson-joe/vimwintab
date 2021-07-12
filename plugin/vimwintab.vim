@@ -40,7 +40,7 @@ let s:wintab_go_to_new_tab      = get(g:, "wintab_go_to_new_tab", 0)
 
 " whether need to catch layout upon Vim startup.
 " 0 - no, non-0 - yes.
-let s:wintab_vim_startup        = get(g:, "wintab_vim_startup", 0)
+let s:wintab_vim_startup        = get(g:, "wintab_vim_startup", 1)
 
 " how borders of every tab would look like.
 " need to be a string.
