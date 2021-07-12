@@ -1,4 +1,4 @@
-" Vimwintab
+" vimwintab
 "
 " A plugin that adds IDE-like tabs to Vim, which allows you to have regular
 " tabs you are used to in every window you want to.
@@ -11,6 +11,14 @@
 "
 " ':h VWTUserGuide' in Vim or go to the link below to view the User Guide.
 " https://github.com/boson-joe/vimwintab/wiki/Vimwintab-User-Guide
+
+
+
+" ---------- Guards
+
+if v:version < 802 || !has("popupwin") || &compatible
+    finish
+endif
 
 
 
