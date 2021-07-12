@@ -58,7 +58,7 @@ let s:wintab_tab_blank          = get(g:, "wintab_tab_blank", "...")
 
 " highlighting for different tabs
 let s:wintab_tab_hi_regular     = get(g:, "wintab_tab_hi_regular",  "Pmenu")
-let s:wintab_tab_hi_selected    = get(g:, "wintab_tab_hi_selected", "PmenuSel")
+let s:wintab_tab_hi_selected    = get(g:, "wintab_tab_hi_selected", "Search")
 let s:wintab_tab_hi_blank       = get(g:, "wintab_tab_hi_blank",    "Pmenu")
 
 " time in milliseconds when data structures will be updated
