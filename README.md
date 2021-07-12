@@ -8,7 +8,7 @@ To find out how to use the plugin see a brief [User Guide](https://github.com/bo
 
 To learn more about the plugin please refer to the [Table of Contents](https://github.com/boson-joe/vimwintab#table-of-contents) section at the end of this file.
 
-To see the license this plugin is distributed on go to [License](https://github.com/boson-joe/vimwintab/blob/master/license.txt)
+To see the license this plugin is distributed on go to [License](https://github.com/boson-joe/vimwintab/blob/master/license.txt).
 
 Description
 ----------
