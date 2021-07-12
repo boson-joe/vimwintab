@@ -1,4 +1,4 @@
-Vimwintab
+vimwintab
 =========
 
 **A plugin that adds "IDE-like" tabs to Vim, which allows you to have regular
@@ -33,6 +33,11 @@ Tabs are added to windows according to the mode the plugin operates in. There ar
 In general, plugin is very customizable - you can determine, how it will operate, in which mode, how individual tabs will look like, etc. To know how see [Customization Guide](https://github.com/boson-joe/vimwintab/wiki/Vimwintab-customization-guide#vimwintab-customization-guide) page.
 
 ![delete_win_buf](https://user-images.githubusercontent.com/85287376/125200642-9e9b6580-e274-11eb-8fec-c40d4109f288.gif)
+
+![toggle_bars](https://user-images.githubusercontent.com/85287376/125277459-1c657c80-e31a-11eb-8488-83fa3732bf81.gif)
+
+![tabs_tabs](https://user-images.githubusercontent.com/85287376/125277461-1cfe1300-e31a-11eb-8213-144e8a5378c2.gif)
+
 
 Installation
 ------------
