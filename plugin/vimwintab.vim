@@ -12,7 +12,7 @@
 " ':h VWTUserGuide' in Vim or go to the link below to view the User Guide.
 " https://github.com/boson-joe/vimwintab/wiki/Vimwintab-User-Guide
 
-let s:vimwintab_version = 100
+let s:vimwintab_version = 101
 
 
 
@@ -21,6 +21,12 @@ let s:vimwintab_version = 100
 if v:version < 802 || !has("popupwin") || &compatible
     finish
 endif
+
+if exists('g:vimwintab_is_loaded')
+    finish
+endif
+
+let g:vimwintab_is_loaded = 1
 
 
 
